@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Projeto Final</string>
+    <string name="titulo">Sistema Cadastral de Pessoa Física</string>
+    <string name="autoriaVersao">Desenvolvido por Kimberlly R. Moreles, Versão 1.0</string>
+    <string name="botaoinserir">Inserir Pessoa Física</string>
+    <string name="nome">Nome</string>
+    <string name="cpf">CPF</string>
+    <string name="idade">Idade</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">E-mail</string>
+    <string name="inserirDados">Inserir Dados</string>
+    <string name="listar">Listar Registros</string>
+    <string name="voltar">Voltar</string>
+
+</resources>
